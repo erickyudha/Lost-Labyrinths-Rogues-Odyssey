@@ -1,0 +1,34 @@
+{
+    "name": "Event",
+    "maps": [
+        {
+            "name": "General",
+            "id": "303da330-ba89-4353-9cce-33a0850343f5",
+            "actions": [
+                {
+                    "name": "TriggerEvent",
+                    "type": "Button",
+                    "id": "1c05b9e1-ca9f-48bf-9857-b99e0d71f5f8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "262a41b7-da3b-4c44-8e30-6ac0e5432df9",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TriggerEvent",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

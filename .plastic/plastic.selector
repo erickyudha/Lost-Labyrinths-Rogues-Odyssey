@@ -1,0 +1,4 @@
+repository "rogue game@erickyudha@cloud"
+  path "/"
+    br "/main"
+    co "/main"
